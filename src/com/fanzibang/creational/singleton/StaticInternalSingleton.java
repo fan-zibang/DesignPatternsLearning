@@ -1,4 +1,4 @@
-package com.fanzibang.singleton;
+package com.fanzibang.creational.singleton;
 
 public class StaticInternalSingleton {
 

@@ -1,4 +1,4 @@
-package com.fanzibang.behavior;
+package com.fanzibang.behavior.strategy;
 
 import java.util.HashMap;
 import java.util.Map;

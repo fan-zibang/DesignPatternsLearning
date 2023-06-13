@@ -1,4 +1,4 @@
-package com.fanzibang.behavior;
+package com.fanzibang.behavior.strategy;
 
 public class StatefulStrategyFactory {
 
